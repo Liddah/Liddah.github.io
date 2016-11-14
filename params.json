@@ -1,0 +1,6 @@
+{
+  "name": "Liddah.GitHub.io",
+  "tagline": "site",
+  "body": "<!DOCTYPE html>\r\n\r\n<html>\r\n    <head>\r\n        <title>AEGEE-Delft Noord</title>\r\n        <meta charset=\"UTF-8\">\r\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    </head>\r\n    <body>\r\n        <div>\r\n            <script>\r\n                window.location = \"http://aegee-leiden.nl\";\r\n            </script>\r\n        </div>\r\n    </body>\r\n</html>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
